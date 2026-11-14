@@ -4,7 +4,7 @@ Welcome to my Python projects repository!
 This repo contains practical projects focused on improving logic building and problem-solving skills.
 
 ##  About Me
-Hi, I'm **Prince Chankya**  
+Hi, I'm **Prince Zaale**  
 Python Learner  
 Aspiring Data Scientist  
 
